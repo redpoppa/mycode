@@ -2,6 +2,8 @@
 import os
 import time
 
+
+os.system('cd ~/mycode/')
 os.system("git add *")
 
 
